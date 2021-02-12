@@ -9,3 +9,5 @@ First Commit: 9/18/20 "Initial commit" [here](https://github.com/SeanMiller969/S
 Latest Commit: 12/09/20 "Update README.md" [here](https://github.com/SeanMiller969/SMAB/commit/f099ec61dc7a58080079a32e48e05a8d96bae991) 
 
 Current Branches: There are 5 [current branches](https://github.com/SeanMiller969/SMAB/branches) (master, URLtraverseandJSON, User-Interface, Class-Files, and rmupdate)
+
+Gitstats reported 1590 lines of code (16 line difference).
