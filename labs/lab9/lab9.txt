@@ -1,0 +1,2 @@
+https://github.com/tsanford13/OSS-Labs/blob/master/labs/lab9/lab9.md
+Blog post: https://rcos.io/projects/jackmansfield2019/brokerbot/blog
